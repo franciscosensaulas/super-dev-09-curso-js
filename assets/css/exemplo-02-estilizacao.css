@@ -1,0 +1,48 @@
+#caixa-01 {
+    display: none;
+    height: 100px;
+    text-align: center;
+    width: 100px;
+}
+.caixa-vermelha {
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+
+.caixa-azul {
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
+.caixa-laranja {
+    background-color: #FFA500;
+    color: #000000;
+}
+
+.caixa-amarela {
+    background-color: #FFFF00;
+    color: #000000;
+}
+
+.caixa-verde {
+    background-color: #008000;
+    color: #FFFFFF;
+}
+
+.caixa-anil {
+    background-color: #4B0082;
+    color: #FFFFFF;
+}
+
+.caixa-violeta {
+    background-color: #EE82EE;
+    color: #000000;
+}
+
+.hidden{
+    display: none;
+}
+
+.imagem{
+    height: 100px;
+}
